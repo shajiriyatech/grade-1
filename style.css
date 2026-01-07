@@ -56,7 +56,9 @@ body { font-family: Poppins, sans-serif; }
   padding: 50px 0;
   font-size: 25px;
 }
-
+.products-section{
+  background:#f7f0e6;
+}
 .product-card,
 .collection-card {
   background: #fff;
